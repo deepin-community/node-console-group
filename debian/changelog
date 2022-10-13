@@ -1,0 +1,32 @@
+node-console-group (0.3.3-3) unstable; urgency=medium
+
+  * Build with Babel 7
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 06 May 2020 14:36:10 +0530
+
+node-console-group (0.3.3-2) unstable; urgency=medium
+
+  * Team upload
+
+  [ Debian Janitor ]
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+
+  [ Xavier Guimard ]
+  * Declare compliance with policy 4.5.0
+  * Use pkg-js-tools auto test & install
+  * Add "Rules-Requires-Root: no"
+  * Add debian/gbp.conf
+
+ -- Xavier Guimard <yadd@debian.org>  Mon, 04 May 2020 10:17:42 +0200
+
+node-console-group (0.3.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #880855)
+
+ -- Pirate Praveen <praveen@debian.org>  Sun, 05 Nov 2017 12:12:17 +0530

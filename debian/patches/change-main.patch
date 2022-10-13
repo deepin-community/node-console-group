@@ -1,0 +1,12 @@
+Description: Change main
+--- a/package.json
++++ b/package.json
+@@ -2,7 +2,7 @@
+   "name": "console-group",
+   "version": "0.3.3",
+   "description": "basic console.group implementation for node",
+-  "main": "dist/console-group.cjs.js",
++  "main": "dist/index.js",
+   "module": "dist/console-group.es.js",
+   "jsnext:main": "dist/console-group.es.js",
+   "scripts": {
